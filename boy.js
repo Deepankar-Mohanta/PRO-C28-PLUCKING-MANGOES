@@ -9,7 +9,7 @@ class Boy{
       this.x=x;
       this.y=y;
    
-      this.image = loadImage("sprites/boy.png");
+      this.image = loadImage("boy.png");
       
     }
     display(){

@@ -13,7 +13,7 @@ var shot1;
 
 function preload()
 {
-	bg=loadImage("sprites/bg.jpg");
+	bg=loadImage("bg.jpg");
 }
 
 function setup() {

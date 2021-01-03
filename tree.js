@@ -9,7 +9,7 @@ class Tree{
         this.x=x;
         this.y=y;
      
-        this.image = loadImage("sprites/tree.png");
+        this.image = loadImage("tree.png");
         
       }
       display(){
